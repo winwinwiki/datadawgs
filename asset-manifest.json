@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/datadawgs/static/css/main.1d254a47.css",
-    "main.js": "/datadawgs/static/js/main.c26c91d8.js",
+    "main.js": "/datadawgs/static/js/main.38e9122d.js",
     "static/js/787.3ecd7fac.chunk.js": "/datadawgs/static/js/787.3ecd7fac.chunk.js",
     "static/media/pup.png": "/datadawgs/static/media/pup.6d187e8bf76335836c30.png",
     "index.html": "/datadawgs/index.html",
     "main.1d254a47.css.map": "/datadawgs/static/css/main.1d254a47.css.map",
-    "main.c26c91d8.js.map": "/datadawgs/static/js/main.c26c91d8.js.map",
+    "main.38e9122d.js.map": "/datadawgs/static/js/main.38e9122d.js.map",
     "787.3ecd7fac.chunk.js.map": "/datadawgs/static/js/787.3ecd7fac.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1d254a47.css",
-    "static/js/main.c26c91d8.js"
+    "static/js/main.38e9122d.js"
   ]
 }
