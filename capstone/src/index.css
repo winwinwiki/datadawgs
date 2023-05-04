@@ -35,6 +35,10 @@ img {
   font-size: 20px;
   text-align: left;
 }
+.smalltext {
+  font-size: 15px;
+  text-align: left;
+}
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
@@ -42,6 +46,9 @@ code {
 a {
   text-decoration: none;
   color: white;
+}
+.kibana {
+  color: #27A5D5;
 }
 .start {
   background-color: #27A5D5;
